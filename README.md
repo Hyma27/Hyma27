@@ -27,3 +27,8 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/hyma-sri-narala-62b470291
 - 📧 Email: hymasrinarala@gmail.com
 
+## Languages and Tools
+(your icons here)
+
+## 📊 GitHub Stats
+![Hyma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyma27&show_icons=true&theme=tokyonight)
